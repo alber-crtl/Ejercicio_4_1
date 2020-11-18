@@ -8,6 +8,7 @@ public class AleatorioEmple {
 		crear();
 		leer();
 		System.out.println("commit 1");
+		System.out.println("commit 2");
 	}
 
 	public static void leer() throws IOException {
